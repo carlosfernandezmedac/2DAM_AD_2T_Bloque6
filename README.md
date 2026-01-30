@@ -164,7 +164,7 @@ La infografía del repositorio muestra visualmente:
 - El flujo de datos
 - Dónde encajan `main.py`, `models.py` y `database.py`
 
-![alt text](farm.png)
+![alt text](img/farm.png)
 
 ---
 
