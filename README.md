@@ -8,7 +8,7 @@ arquitectura sencilla y alineada con el temario y el vídeo de referencia.
 
 ## Stack Tecnológico
 
-- **Frontend**: React
+- **Frontend**: React (JavaScript)
 - **Backend**: FastAPI (Python)
 - **Base de datos**: MongoDB
 - **Modelos y validación**: Pydantic
@@ -20,15 +20,16 @@ arquitectura sencilla y alineada con el temario y el vídeo de referencia.
 
 ```
 React (Frontend)
-   ↓
+   ↓ Peticiones HTTP (API REST)
 FastAPI (main.py - Endpoints)
    ↓
 models.py (Modelos de datos)
    ↓
-database.py (Acceso a datos / CRUD)
+database.py (Acceso a datos)
    ↓
 MongoDB (Base de datos)
 ```
+
 
 Esta arquitectura separa claramente cada responsabilidad del sistema.
 
